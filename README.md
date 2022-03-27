@@ -1,4 +1,5 @@
 <h1>Django Project - WEB OKR</h1>
+
 <h2>Description</h2>
 The project was created under a DJango-based framework and was designed to computerize the Excel-formatted OKR into the company's WEB.
 <h2>Technology<h2>
